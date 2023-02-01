@@ -1,0 +1,3 @@
+[submodule "my_lambda_function/fivetran-connector"]
+	path = my_lambda_function/fivetran-connector
+	url = https://github.com/nelson-low/fivetran-connector.git
